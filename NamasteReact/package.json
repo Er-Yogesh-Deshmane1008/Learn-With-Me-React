@@ -1,0 +1,11 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "this is my app",
+  "main": "App.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Yogesh Deshmane",
+  "license": "ISC"
+}
